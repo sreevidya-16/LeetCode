@@ -169,4 +169,12 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
