@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sreevidya-16/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
