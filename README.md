@@ -172,9 +172,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
