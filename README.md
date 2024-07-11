@@ -189,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -207,6 +208,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreevidya-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -214,4 +216,8 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreevidya-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
