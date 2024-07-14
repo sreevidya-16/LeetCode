@@ -161,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2846-robot-collisions](https://github.com/sreevidya-16/LeetCode/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
@@ -214,12 +215,14 @@
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
+| [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreevidya-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreevidya-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
+| [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 ## Counting
 |  |
 | ------- |
