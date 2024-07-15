@@ -162,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -173,6 +174,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -199,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
