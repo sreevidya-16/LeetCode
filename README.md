@@ -171,6 +171,7 @@
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sreevidya-16/LeetCode/tree/master/1803-average-waiting-time) |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
