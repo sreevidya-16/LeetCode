@@ -174,6 +174,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sreevidya-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -201,6 +202,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sreevidya-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
