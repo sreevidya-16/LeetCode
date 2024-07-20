@@ -152,6 +152,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/sreevidya-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -184,6 +185,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sreevidya-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sreevidya-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -285,6 +287,7 @@
 | ------- |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Depth-First Search
 |  |
 | ------- |
