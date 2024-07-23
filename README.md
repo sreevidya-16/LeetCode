@@ -154,6 +154,7 @@
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sreevidya-16/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2154-minimum-moves-to-convert-string](https://github.com/sreevidya-16/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -192,6 +193,7 @@
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreevidya-16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/sreevidya-16/LeetCode/tree/master/1803-average-waiting-time) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sreevidya-16/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sreevidya-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sreevidya-16/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sreevidya-16/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
