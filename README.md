@@ -152,6 +152,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreevidya-16/LeetCode/tree/master/0011-container-with-most-water) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sreevidya-16/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
@@ -180,6 +181,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreevidya-16/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreevidya-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
@@ -218,6 +220,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreevidya-16/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreevidya-16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
