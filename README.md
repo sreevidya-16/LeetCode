@@ -170,6 +170,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreevidya-16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/sreevidya-16/LeetCode/tree/master/2502-sort-the-people) |
@@ -190,6 +191,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/sreevidya-16/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
