@@ -192,6 +192,7 @@
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/sreevidya-16/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/sreevidya-16/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sreevidya-16/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/sreevidya-16/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/sreevidya-16/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sreevidya-16/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/sreevidya-16/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sreevidya-16/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
