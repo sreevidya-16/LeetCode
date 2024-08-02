@@ -205,6 +205,7 @@
 | [1803-average-waiting-time](https://github.com/sreevidya-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sreevidya-16/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sreevidya-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sreevidya-16/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sreevidya-16/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sreevidya-16/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/sreevidya-16/LeetCode/tree/master/2502-sort-the-people) |
@@ -361,4 +362,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/sreevidya-16/LeetCode/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sreevidya-16/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
