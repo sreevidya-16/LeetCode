@@ -173,6 +173,7 @@
 | [0948-sort-an-array](https://github.com/sreevidya-16/LeetCode/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreevidya-16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sreevidya-16/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/sreevidya-16/LeetCode/tree/master/2502-sort-the-people) |
@@ -199,6 +200,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/sreevidya-16/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreevidya-16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -236,6 +238,7 @@
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -366,4 +369,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sreevidya-16/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
