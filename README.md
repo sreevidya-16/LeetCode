@@ -194,6 +194,7 @@
 | [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sreevidya-16/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/sreevidya-16/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sreevidya-16/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -224,6 +225,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/sreevidya-16/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sreevidya-16/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sreevidya-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -324,6 +326,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
