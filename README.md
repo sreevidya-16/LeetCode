@@ -194,6 +194,7 @@
 | [0137-single-number-ii](https://github.com/sreevidya-16/LeetCode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sreevidya-16/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/sreevidya-16/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/sreevidya-16/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sreevidya-16/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sreevidya-16/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -295,6 +297,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sreevidya-16/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreevidya-16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sreevidya-16/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -326,6 +329,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sreevidya-16/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sreevidya-16/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
