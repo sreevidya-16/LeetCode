@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sreevidya-16/LeetCode/tree/master/0011-container-with-most-water) |
+| [0890-lemonade-change](https://github.com/sreevidya-16/LeetCode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sreevidya-16/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/sreevidya-16/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
@@ -195,6 +196,7 @@
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreevidya-16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/sreevidya-16/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/sreevidya-16/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sreevidya-16/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/sreevidya-16/LeetCode/tree/master/0999-regions-cut-by-slashes) |
