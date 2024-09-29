@@ -224,6 +224,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/sreevidya-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sreevidya-16/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sreevidya-16/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
+| [0432-all-oone-data-structure](https://github.com/sreevidya-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sreevidya-16/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -353,6 +355,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/sreevidya-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [2178-walking-robot-simulation-ii](https://github.com/sreevidya-16/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 ## Topological Sort
 |  |
@@ -407,4 +410,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sreevidya-16/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/sreevidya-16/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
