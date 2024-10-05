@@ -250,6 +250,7 @@
 | [0075-sort-colors](https://github.com/sreevidya-16/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sreevidya-16/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sreevidya-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/sreevidya-16/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sreevidya-16/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sreevidya-16/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sreevidya-16/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sreevidya-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreevidya-16/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sreevidya-16/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/sreevidya-16/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/sreevidya-16/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/sreevidya-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/sreevidya-16/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/sreevidya-16/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sreevidya-16/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -398,6 +401,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/sreevidya-16/LeetCode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sreevidya-16/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
